@@ -1,0 +1,42 @@
+
+text,label
+"Congratulations! You won a free prize. Claim it now",spam
+"Win a free iPhone by clicking this link",spam
+"URGENT! Claim your cash reward today",spam
+"Your account won a lottery prize",spam
+"Free entry in our prize draw. Reply now",spam
+"Get a guaranteed loan instantly",spam
+"Limited offer! Buy now and save big",spam
+"You have been selected for a cash reward",spam
+"Claim your free gift before it expires",spam
+"Earn money fast from home. Sign up now",spam
+"Congratulations, you are our lucky winner",spam
+"Click here to claim your exclusive reward",spam
+"Exclusive deal! Get a discount today",spam
+"Your free voucher is waiting for you",spam
+"Act now to receive your bonus cash",spam
+"Lowest price guaranteed. Order today",spam
+"Win big cash prizes. Enter now",spam
+"Urgent notification: claim your reward",spam
+"Get free access by registering now",spam
+"Special offer just for you. Buy today",spam
+"Hey, are we meeting at the library today?",not_spam
+"Please send me the class notes",not_spam
+"I will call you when I arrive",not_spam
+"Did you finish your programming assignment?",not_spam
+"Let's have lunch after class",not_spam
+"Your lecture starts at ten tomorrow",not_spam
+"Can you help me understand this Python code?",not_spam
+"I am on my way home",not_spam
+"Please bring your notebook to class",not_spam
+"Are you free for cricket this evening?",not_spam
+"I have uploaded the assignment to the portal",not_spam
+"Thank you for explaining the topic",not_spam
+"We are meeting at the university gate",not_spam
+"Please remind me about the exam date",not_spam
+"I will share the project files tonight",not_spam
+"The teacher moved our class to Friday",not_spam
+"Can we discuss the group project tomorrow?",not_spam
+"I am waiting outside the classroom",not_spam
+"Did you receive my previous message?",not_spam
+"See you at the library after lunch",not_spam
